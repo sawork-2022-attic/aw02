@@ -1,6 +1,14 @@
 # POS in Shell
 
-The demo shows a simple POS system with command line interface. Currently it implements three commands which you can see using the `help` command.
+The demo shows a simple POS system with command line interface. 
+
+To run
+
+```shell
+mvn clean spring-boot:run
+```
+
+Currently, it implements three commands which you can see using the `help` command.
 
 ```shell
   .   ____          _            __ _ _
@@ -34,4 +42,7 @@ Please make the POS system robust and fully functional by implementing more comm
 
 Implementing a PosDB with real database is very much welcome. 
 
-Please elaborate your understanding in layered systems via this homework in your README.md.
+Please use asciinema (https://asciinema.org) to record a demo and submit the url in QQ group. 
+
+And please elaborate your understanding in layered systems via this homework in your README.md.
+
